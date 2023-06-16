@@ -26,6 +26,7 @@ function readFileCallback1(err, data) {
     }
     else {
         console.log('File 1 data ->' + data)
+        
     }
 }
 
@@ -37,6 +38,7 @@ function readFileCallback2(err, data) {
     }
     else {
         console.log('File 2 data ->' + data)
+        
     }
 }
 
